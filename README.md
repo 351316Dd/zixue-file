@@ -7,3 +7,4 @@ what did i do here
 4. now we are trying to sychn some changes 
 
 now try to unprivate the file
+"^ the message above can be tracked in "history" 
