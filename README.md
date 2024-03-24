@@ -9,3 +9,5 @@ what did i do here
 now try to unprivate the file
 "^ the message above can be tracked in "history" 
 Go to the "settings>danger zone>change the visibility"
+
+how to return to the historical versions? 
