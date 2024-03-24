@@ -5,3 +5,5 @@ what did i do here
 2. I created the repo on github online
 3. You open up the desktop github and under file the the top left corner you clone the pytho: "note that mistakes take up different form, what you did here is you flipped the order of repo and local
 4. now we are trying to sychn some changes 
+
+now try to unprivate the file
